@@ -1,0 +1,20 @@
+h1, p {
+    font-family: "Schoolbell", cursive;
+    margin-bottom: 1px;
+}
+
+body {
+    font-family: "Schoolbell", cursive;
+    min-height: 100vh;
+    display: flex;
+}
+
+.title {
+    font-family: "Schoolbell", cursive;
+    font-size: 36pt;
+    text-align: center;
+}
+
+.answer * {
+    font-size: 18pt;
+}
