@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Does they love me? 🌼💗</title>
+	<title>Do they love me? 🌼💗</title>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 	<link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Schoolbell&display=swap" rel="stylesheet">
