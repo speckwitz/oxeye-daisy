@@ -76,7 +76,7 @@
         </div>
 
         <h1 class="title">
-            <b>Does she love me?</b>
+            <b>Does they love me?</b>
         </h1>
         <div class="answer">
             <p>
