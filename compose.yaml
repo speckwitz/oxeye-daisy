@@ -1,0 +1,5 @@
+services:
+  oxeye_daisy:
+    build: .
+    ports: 
+      - "3000:3000"
